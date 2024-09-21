@@ -3,8 +3,8 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
-- [ ] Add a H1 Header
-- [ ] Add a image
-- [ ] Add a code
+- [X] Add a H1 Header
+- [X] Add a image
+- [X] Add a code
 
 
